@@ -3,6 +3,8 @@ Get GitHub user stats such as total stars, forks, repos (public) using standard 
 This is an isomorphic ECMAScript module (ESM) you can use it in Node or in the Browser.<br />
 GitHub API ratelimit is taken into account.
 
+📦 Scoped `@xan105` packages are for my own personal use but feel free to use them.
+
 Example
 =======
 
